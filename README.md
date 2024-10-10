@@ -1,1 +1,1 @@
-### This is a sample fit project nothing useful here
+### This is a sample git project nothing useful here
